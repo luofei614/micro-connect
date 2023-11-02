@@ -125,6 +125,7 @@
 * 滴灌通（澳交所）信息披露规则: [file/滴灌通（澳交所）信息披露规则.pdf](https://github.com/luofei614/micro-connect/blob/4e25ec8a1e6ad3ee5bef899ea862e8bf399a3748/file/%E6%BB%B4%E7%81%8C%E9%80%9A%EF%BC%88%E6%BE%B3%E4%BA%A4%E6%89%80%EF%BC%89%E4%BF%A1%E6%81%AF%E6%8A%AB%E9%9C%B2%E8%A7%84%E5%88%99.pdf)
 * 滴灌通（澳交所）会员管理规则: [file/滴灌通（澳交所）会员管理规则.pdf](https://github.com/luofei614/micro-connect/blob/4e25ec8a1e6ad3ee5bef899ea862e8bf399a3748/file/%E6%BB%B4%E7%81%8C%E9%80%9A%EF%BC%88%E6%BE%B3%E4%BA%A4%E6%89%80%EF%BC%89%E4%BC%9A%E5%91%98%E7%AE%A1%E7%90%86%E8%A7%84%E5%88%99.pdf)
 * 滴灌通（澳交所）产品交易规则: [file/滴灌通（澳交所）产品交易规则.pdf](https://github.com/luofei614/micro-connect/blob/4e25ec8a1e6ad3ee5bef899ea862e8bf399a3748/file/%E6%BB%B4%E7%81%8C%E9%80%9A%EF%BC%88%E6%BE%B3%E4%BA%A4%E6%89%80%EF%BC%89%E4%BA%A7%E5%93%81%E4%BA%A4%E6%98%93%E8%A7%84%E5%88%99.pdf)
+* 滴灌通（澳交所）日收益组合产品操作规则：[file/滴灌通（澳交所）日收益组合产品操作规则.pdf](https://github.com/luofei614/micro-connect/blob/c6936374dea98c24c47012d9ec664b40263b4545/file/%E6%BB%B4%E7%81%8C%E9%80%9A%EF%BC%88%E6%BE%B3%E4%BA%A4%E6%89%80%EF%BC%89%E6%97%A5%E6%94%B6%E7%9B%8A%E7%BB%84%E5%90%88%E4%BA%A7%E5%93%81%E6%93%8D%E4%BD%9C%E8%A7%84%E5%88%99.pdf)
 
 ## 滴灌同系统内容
 
