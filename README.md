@@ -122,6 +122,9 @@
 * 白皮书概要 ：[file/滴灌通商业模式-白皮书概要.pdf](https://github.com/luofei614/micro-connect/blob/304911db01f4c34955c978cae4951052563c45b9/file/%E6%BB%B4%E7%81%8C%E9%80%9A%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F-%E7%99%BD%E7%9A%AE%E4%B9%A6%E6%A6%82%E8%A6%81.pdf)
 * 白皮书原文： [file/滴灌通白皮书MCIWP_EN.pdf](https://github.com/luofei614/micro-connect/blob/304911db01f4c34955c978cae4951052563c45b9/file/%E6%BB%B4%E7%81%8C%E9%80%9A%E7%99%BD%E7%9A%AE%E4%B9%A6MCIWP_EN.pdf)
 * 中国餐饮投融资报告： [file/红餐&滴灌通-中国餐饮投融资报告2023-2023.10-40页.pdf](https://github.com/luofei614/micro-connect/blob/304911db01f4c34955c978cae4951052563c45b9/file/%E7%BA%A2%E9%A4%90%26%E6%BB%B4%E7%81%8C%E9%80%9A-%E4%B8%AD%E5%9B%BD%E9%A4%90%E9%A5%AE%E6%8A%95%E8%9E%8D%E8%B5%84%E6%8A%A5%E5%91%8A2023-2023.10-40%E9%A1%B5.pdf)
+* 滴灌通（澳交所）信息披露规则: [file/滴灌通（澳交所）信息披露规则.pdf](https://github.com/luofei614/micro-connect/blob/4e25ec8a1e6ad3ee5bef899ea862e8bf399a3748/file/%E6%BB%B4%E7%81%8C%E9%80%9A%EF%BC%88%E6%BE%B3%E4%BA%A4%E6%89%80%EF%BC%89%E4%BF%A1%E6%81%AF%E6%8A%AB%E9%9C%B2%E8%A7%84%E5%88%99.pdf)
+* 滴灌通（澳交所）会员管理规则: [file/滴灌通（澳交所）会员管理规则.pdf](https://github.com/luofei614/micro-connect/blob/4e25ec8a1e6ad3ee5bef899ea862e8bf399a3748/file/%E6%BB%B4%E7%81%8C%E9%80%9A%EF%BC%88%E6%BE%B3%E4%BA%A4%E6%89%80%EF%BC%89%E4%BC%9A%E5%91%98%E7%AE%A1%E7%90%86%E8%A7%84%E5%88%99.pdf)
+* 滴灌通（澳交所）产品交易规则: [file/滴灌通（澳交所）产品交易规则.pdf](https://github.com/luofei614/micro-connect/blob/4e25ec8a1e6ad3ee5bef899ea862e8bf399a3748/file/%E6%BB%B4%E7%81%8C%E9%80%9A%EF%BC%88%E6%BE%B3%E4%BA%A4%E6%89%80%EF%BC%89%E4%BA%A7%E5%93%81%E4%BA%A4%E6%98%93%E8%A7%84%E5%88%99.pdf)
 
 ## 滴灌同系统内容
 
