@@ -139,4 +139,4 @@
 
 微信号： jianyueluofei， 备注：滴灌通
 
-![罗飞微信二维码](https://github.com/luofei614/micro-connect/blob/main/file/qr.png?raw=true)
+![罗飞微信二维码](https://github.com/luofei614/micro-connect/blob/main/file/qr.png?raw=true =100x200)
